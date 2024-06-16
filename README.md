@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/87430624/249447353-0b92eb21-66fe-45c2-a542-24cb614e2962.png" width="1000" />
 
-> 📎 <a href='http://susumarket.shop/'>배포 URL</a> <br/>
+> 📎 <a href='https://susumarket.netlify.app'>배포 URL</a> <br/>
 >
 > <br/>
 > 이메일 로그인 테스트 계정
